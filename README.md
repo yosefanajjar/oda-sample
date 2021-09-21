@@ -24,4 +24,7 @@ yarn start
 - Typescript
 - Jest
 
+### Design
+Figma - https://www.figma.com/file/dNBlNMAsm72pAxxwY6pYDm/Oda-POC?node-id=0%3A1
+
 ![image](https://user-images.githubusercontent.com/44949822/128224398-57ceaae8-ad20-47fc-9551-40ade7181982.png)
